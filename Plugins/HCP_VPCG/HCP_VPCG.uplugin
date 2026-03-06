@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.00.0",
+	"FriendlyName": "HCP_VPCG",
+	"Description": "Hexagonal close packing tools to create hexagonal close packing voxel 3D matrix grid and 2D surface for PCG",
+	"Category": "PCG",
+	"CreatedBy": "Dominion",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"FabURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EngineVersion": "5.7.0",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HCP_VPCG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux",
+				"LinuxArm64"
+			]
+		}
+	],
+	"MarketplaceURL": ""
+}

@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "p:\\3d\\unreal\\test_plugin\\plugins\\hcp_vpcg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hcp_vpcg\\module.hcp_vpcg.cpp",
+        "ProvidedModule": "",
+        "PCH": "p:\\3d\\unreal\\test_plugin\\intermediate\\build\\win64\\x64\\test_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "p:\\3d\\unreal\\test_plugin\\plugins\\hcp_vpcg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hcp_vpcg\\definitions.hcp_vpcg.h",
+            "p:\\3d\\unreal\\test_plugin\\plugins\\hcp_vpcg\\intermediate\\build\\win64\\unrealeditor\\inc\\hcp_vpcg\\uht\\hcp_vpcg.init.gen.cpp",
+            "p:\\3d\\unreal\\test_plugin\\plugins\\hcp_vpcg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hcp_vpcg\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
