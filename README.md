@@ -14,17 +14,8 @@ In addition are included are unreal engine static meshes of Trapezo-rhombic dode
 Make sure the Enreal Engine project that this plugin is to used in is closed.
 
 Plugin installation
+
 1: Copy the contents of the Plugins directory into the Unreal Engine projects Plugins directory. 
-
-Just be careful that it seems that github may have incorrectly named this Plugins directory as Plugins/HCP_VPCG and the subdirectory as Source/HCP_VPCG and thus got the directory structure completely wrong
-Check that the directory structure is
-
-Plugins with subdirectory HCP_VCPG
-
-This HCP_VCPG subdirectory has subdirectories Resouces and Source.
-
-If this is not the case, github has failed to configure this repository correctly and thus needs to be configured manually after downloading by creating the correct directory structure and copying files into the correct directories.
-
 
 2: Start the Unreal Engine projects and follow the prompts to load the HCP_VPCG plugin.
 
